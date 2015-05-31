@@ -1,0 +1,23 @@
+{
+  "name": "CCatalogue.PageObjectGenerator",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server -w -d"
+  },
+  "dependencies": {
+    "babel": "^5.4.3",
+    "babel-runtime": "^5.4.3",
+    "babel-core": "^5.4.3",
+    "babel-loader": "^5.1.2",
+    "css-loader": "^0.12.1",
+    "extract-text-webpack-plugin": "^0.8.0",
+    "file-loader": "^0.8.1",
+    "less-loader": "^2.2.0",
+    "style-loader": "^0.12.2",
+    "webpack": "^1.9.7",
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^1.8.2"
+  }
+}
